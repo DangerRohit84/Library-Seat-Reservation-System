@@ -1,7 +1,7 @@
 # Library Seat Reservation System
 
 ## 📌 Project Overview
-The **Library Seat Reservation System** is a web-based application developed to simplify and digitalize the process of library seat allocation in educational institutions. Instead of manual or first-come-based seat usage, students can check real-time availability and reserve seats using their academic details — **without any payment**.
+The **Library Seat Reservation System** is a web-based application developed to simplify and digitalize the process of library seat allocation in educational institutions. Instead of manual or first-come-based seat usage, students can check real-time availability and reserve seats using their academic details.
 
 This project was developed as part of **HackSprint 2K25 – Digital Campus 2.0**, under the **Student Innovation** theme.
 
